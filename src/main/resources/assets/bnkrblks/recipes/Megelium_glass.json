@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "GMG",
+        "GGG"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:glass"
+        },
+        
+        "M":
+        {
+            "item": "bnkrblks:megelium_polished"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "bnkrblks:megelium_glass",
+        "count": 5
+    }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "bnkrblks:blocks/lime_bunker_wall"
+   }
+}

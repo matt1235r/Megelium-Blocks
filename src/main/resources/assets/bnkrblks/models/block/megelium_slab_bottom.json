@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "bnkrblks:blocks/megelium_block",
+        "top": "bnkrblks:blocks/megelium_block",
+        "side": "bnkrblks:blocks/megelium_block"
+    }
+}

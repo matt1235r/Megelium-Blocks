@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "bnkrblks:megelium_block" },
+        "half=bottom": { "model": "bnkrblks:megelium_block" }
+    }
+}

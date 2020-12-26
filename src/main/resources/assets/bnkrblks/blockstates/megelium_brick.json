@@ -1,0 +1,90 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "minecraft:cube_all"
+    },
+    "variants": {
+        "color": {
+            "black": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_black"
+                }
+            },
+            "blue": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_blue"
+                }
+            },
+            "brown": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_brown"
+                }
+            },
+            "cyan": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_cyan"
+                }
+            },
+            "gray": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_grey"
+                }
+            },
+            "green": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_green"
+                }
+            },
+            "light_blue": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_light_blue"
+                }
+            },
+            "light_gray": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_light_grey"
+                }
+            },
+            "lime": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_light_blue"
+                }
+            },
+            "magenta": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_magenta"
+                }
+            },
+            "orange": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_orange"
+                }
+            },
+            "pink": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_pink"
+                }
+            },
+            "purple": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_purple"
+                }
+            },
+            "red": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_red"
+                }
+            },
+            "white": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_white"
+                }
+            },
+            "yellow": {
+                "textures": {
+                    "all": "bnkrblks:blocks/megelium_polished_yellow"
+                }
+            }           
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OGO",
+        "GIG",
+        "OGO"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_block"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:gravel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bnkrblks:megelium_block",
+        "count": 2
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bnkrblks",
+  "name": "Megelium Blocks",
+  "description": "Super strong blocks, perfect for building bomb resistant structures and preventing greifing.",
+  "version": "0.6",
+  "mcversion": "1.12.2",
+  "url": "https://minecraft.curseforge.com/projects/megelium-blocks",
+  "updateUrl": "https://minecraft.curseforge.com/projects/megelium-blocks/files",
+  "authorList": ["Matthew Ringrose (matt_r__)"],
+  "credits": "Developed by Matthew Ringrose",
+  "logoFile": "Icon.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

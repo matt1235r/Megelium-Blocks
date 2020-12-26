@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side",
+    "textures": {
+        "edge": "bnkrblks:blocks/megelium_glass_pane",
+        "pane": "bnkrblks:blocks/megelium_glass"
+    }
+}

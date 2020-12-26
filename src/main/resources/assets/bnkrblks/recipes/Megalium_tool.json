@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        " RL",
+        " RL"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "bnkrblks:megelium_polished"
+        },
+        
+        "R":
+        {
+            "item": "bnkrblks:megelium_rod"
+        },
+        
+        "L":
+        {
+            "item": "minecraft:leather"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "bnkrblks:megelium_pickaxe",
+        "count": 1
+    }
+}

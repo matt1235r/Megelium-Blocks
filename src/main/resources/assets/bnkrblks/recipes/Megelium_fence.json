@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "MRM",
+        "MRM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "bnkrblks:megelium_block"
+        },
+        
+        "R":
+        {
+            "item": "bnkrblks:megelium_rod"
+        }
+        
+        
+    },
+    
+    "result":
+    {
+        "item": "bnkrblks:megelium_fence",
+        "count": 6
+    }
+}

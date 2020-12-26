@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "MMM",
+        "   "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "bnkrblks:megelium_glass"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "bnkrblks:megelium_glass_pane",
+        "count": 10
+    }
+}

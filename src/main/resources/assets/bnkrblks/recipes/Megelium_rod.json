@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "bnkrblks:megelium_block"
+    },
+    
+    {
+      "item": "bnkrblks:megelium_block"
+    }
+    
+    ],
+ 
+    "result":
+    {
+        "item": "bnkrblks:megelium_rod",
+        "count": 4
+    }
+}

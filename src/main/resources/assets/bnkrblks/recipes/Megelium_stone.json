@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+     
+    {
+      "item": "bnkrblks:megelium_block"
+    },    
+    
+    {
+      "item": "minecraft:cobblestone"
+    }
+ 
+    ],
+ 
+    "result":
+    {
+        "item": "bnkrblks:megelium_stone",
+        "count": 2
+    }
+}
